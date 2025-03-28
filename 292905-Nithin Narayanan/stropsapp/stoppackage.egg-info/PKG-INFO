@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: stoppackage
+Version: 0.1
+Summary: Strop functions of a string
+Home-page: #
+Author: Nithi Ryn
+Author-email: nithin.narayanan.018@gmail.com
+License: GPL
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: summary

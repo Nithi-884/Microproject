@@ -1,0 +1,8 @@
+setup.py
+stoppackage/__init__.py
+stoppackage/strops.py
+stoppackage.egg-info/PKG-INFO
+stoppackage.egg-info/SOURCES.txt
+stoppackage.egg-info/dependency_links.txt
+stoppackage.egg-info/not-zip-safe
+stoppackage.egg-info/top_level.txt
