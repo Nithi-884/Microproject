@@ -80,8 +80,8 @@ def normalizeSpaces(string1):
     list1 = string1.split()
     return " ".join(list1)
 
-# ans = normalizeSpaces("sss   ss d d ss ss")
-# print(ans)
+ans = normalizeSpaces("sss   ss d d ss ss")
+print(ans)
 
 
 # Funtion to transform a string
