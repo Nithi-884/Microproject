@@ -1,0 +1,10 @@
+Write unit tests  unittest module for storage class which will save and load data using the pickle module
+two methods in the class are save(data),load() 
+
+The tests should
+
+Save and check if the file is created,Load from a valid pickle file
+
+if file is not found then return empty list
+
+Assume the data being saved is a list of dictionaries 
